@@ -27,10 +27,10 @@ me.say_hi()
 </div>
 
 ## 🧕 Who Am I?
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=130&pause=500&color=217195&multiline=true&repeat=false&width=6000&height=400&lines=%F0%9F%A7%A0+Currently+interning+at+CyprusCodes.+Working+on+an+Investment+Analysis+Tool+;integrated+with+CMND.ai.+" alt="Typing SVG" /></a><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=130&pause=500&color=217195&multiline=true&repeat=false&width=6000&height=200&lines=%F0%9F%92%BB+Using+my+summer+break+to+learn+AI+and+ML+technologies.+" alt="Typing SVG" /></a><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=130&pause=500&color=217195&multiline=true&repeat=false&width=6000&height=200&lines=%E2%9D%A4%EF%B8%8F+I+love+C%2FC%2B%2B+code+that+pushes+boundaries.+" alt="Typing SVG" /></a><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=130&pause=500&color=217195&multiline=true&repeat=false&width=6000&height=200&lines=%F0%9F%93%96I+am+a+die+hard+Agatha+Christie+fan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=130&pause=500&color=217195&multiline=true&width=6000&height=400&lines=%F0%9F%A7%A0+Currently+interning+at+CyprusCodes.+Working+on+an+Investment+Analysis+Tool+;integrated+with+CMND.ai.+" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=130&pause=500&color=217195&multiline=true&width=6000&height=200&lines=%F0%9F%92%BB+Using+my+summer+break+to+learn+AI+and+ML+technologies.+" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=130&pause=500&color=217195&multiline=true&width=6000&height=200&lines=%E2%9D%A4%EF%B8%8F+I+love+C%2FC%2B%2B+code+that+pushes+boundaries.+" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=130&pause=500&color=217195&multiline=true&width=6000&height=200&lines=%F0%9F%93%96I+am+a+die+hard+Agatha+Christie+fan" alt="Typing SVG" /></a>
 
 ## 🛠️ Tech Arsenal
 
