@@ -47,11 +47,9 @@ me.say_hi()
 <div>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=m-aishah&show_icons=true&locale=en&theme=radical" alt="m-aishah" /></p><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=m-aishah&theme=radical" alt="m-aishah" /></p><br><br><br><br>
-</div><br><br><br><br><br><br>
+</div><br><br><br><br>
 
-
----
-<em>When I'm not immersed in code, you might find me reading an Agatha Christie novel :)</em>
+------
 
 
 <div align="center">
