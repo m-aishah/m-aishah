@@ -47,12 +47,14 @@ me.say_hi()
 <div>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=m-aishah&show_icons=true&locale=en&theme=radical" alt="m-aishah" /></p><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=m-aishah&theme=radical" alt="m-aishah" /></p><br><br><br><br>
-</div><br><br><br><br><br><br><br>
+</div><br><br><br><br><br><br><br><br><br><br><br>
 
-------
 
 
 <div align="center">
+  
+  ------
+
   <img src="https://komarev.com/ghpvc/?username=m-aishah&label=Visitor%20Count&color=brightgreen&style=flat-square" alt="Profile Views"/>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=217195&multiline=true&width=680&height=30&lines=%22The+only+way+to+do+great+work+is+to+love+what+you+do.%22+-+Steve+Jobs" alt="Typing SVG" /></a>
