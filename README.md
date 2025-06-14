@@ -52,7 +52,7 @@ Persistent builder - always building, building, building and learning! Improving
 
 | 🎯 **Professional** | 🚀 **Personal Growth** |
 |:---:|:---:|
-| 🤖 **AI Platform Development** at [CMND.ai](https://www.cmnd.ai/)<br>Contributing to THE Business GPT<br><br>🌐 **Web & Mobile Development** at [futurecast.studio](https://futurecast.studio/)<br>Creating innovative digital experiences | 🎓 **Fresh Graduate Achievement**<br>BSc Computer Engineering - Top of Class (3.92/4.0)<br><br>🔬 **Machine Learning Journey**<br>Constantly improving ML skills & building in public<br><br>⚡ **Always Building Mode**<br>Projects never stop! |
+| **AI Platform Development** at [CMND.ai](https://www.cmnd.ai/)<br>Contributing to THE Business GPT<br><br>**Web & Mobile Development** at [futurecast.studio](https://futurecast.studio/)<br>Creating innovative digital experiences | 🎓 **Fresh Graduate Achievement**<br>BSc Computer Engineering - Top of Class (3.92/4.0)<br><br> **Machine Learning Journey**<br>Constantly improving ML skills & building in public<br><br> **Building Mode**<br>Projects never stop! |
 
 </div>
 
